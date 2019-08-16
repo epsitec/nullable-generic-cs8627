@@ -4,3 +4,4 @@ This is a sample project to demonstrate issue with `dotnet build` encountered wi
 
 See issue reported on [developercommunity.visualstudio.com](https://developercommunity.visualstudio.com/content/problem/612140/cs8627-builds-from-vs2019-but-not-from-command-lin.html).
 
+> Note: This issue has been resolved in .NET Core 3.0  preview 8.
